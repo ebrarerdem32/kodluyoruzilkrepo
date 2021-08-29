@@ -20,4 +20,4 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfrn önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-[MIT] (https://google.com)
+[MIT](https://google.com)
